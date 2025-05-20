@@ -4,7 +4,7 @@ Plugin Name: Hide WP Admin Bar via parameter
 Plugin URI: https://github.com/ekapam/hide-wp-admin-bar-via-parameter
 Description: A simple plugin to hide the WP admin bar with a URL parameter.
 Version: 1.0
-Author: Ricardo Ambriz
+Author: ekapam (Ricardo Ambriz)
 Author URI: https://ricardoambriz.com
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
